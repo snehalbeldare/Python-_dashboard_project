@@ -68,33 +68,47 @@ Built an interactive dashboard to monitor:
 - Location-wise Analysis
 
 ## 📈 Key Insights
-
 - Identified the most frequently reported complaint categories.
 - Analyzed complaint distribution across locations.
 - Examined request status and resolution performance.
 - Observed monthly trends in customer service requests.
 - Generated actionable insights through visual analytics.
 
----
+## 🔍 Key Questions Answered
+* Which complaint types are reported most frequently?
+* Which locations generate the highest number of requests?
+* What is the distribution of request statuses?
+* How do complaints vary over time?
+* What insights can help improve service efficiency?
+
+## 📈 Key Findings
+* A small number of complaint categories account for a significant portion of total requests.
+* Certain locations consistently generate higher request volumes.
+* Complaint trends show noticeable monthly variations.
+* Service request status analysis highlights operational performance patterns.
+
+## 💼 Skills Demonstrated
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Dashboard Development
+* Business Intelligence Reporting
+* Python Programming
+* Analytical Thinking
+* Insight Generation
+
 
 ## 📊 Dashboard Features
-
 ✔️ KPI Metrics
-
 ✔️ Complaint Category Analysis
-
 ✔️ Request Status Distribution
-
 ✔️ Monthly Trend Analysis
-
 ✔️ Location-wise Insights
-
 ✔️ Interactive Data Visualizations
-
 ✔️ Business Intelligence Reporting
 
 ## 🎓 Skills Demonstrated
-
 - Data Cleaning
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -104,16 +118,6 @@ Built an interactive dashboard to monitor:
 - Python Programming
 - Analytical Thinking
 
-## 📚 Learning Outcomes
-
-This project helped me gain practical experience in:
-
-- Working with real-world datasets
-- Data cleaning and transformation
-- Exploratory data analysis techniques
-- Creating effective visualizations
-- Building analytical dashboards
-- Presenting business insights through data storytelling
 
 
 
