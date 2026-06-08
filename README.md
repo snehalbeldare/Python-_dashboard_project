@@ -66,6 +66,16 @@ Built an interactive dashboard to monitor:
 - Top Complaint Categories
 - Monthly Trends
 - Location-wise Analysis
+- ## 📷 Dashboard Preview
+
+### Main Dashboard
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
+### Complaint Analysis
+![Complaint Analysis](images/complaint_analysis_proper.png)
+
+### Trend Analysis
+![Trend Analysis](images/trend_analysis_proper.png)
 
 ## 📈 Key Insights
 - Identified the most frequently reported complaint categories.
