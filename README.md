@@ -66,30 +66,13 @@ Built an interactive dashboard to monitor:
 - Top Complaint Categories
 - Monthly Trends
 - Location-wise Analysis
-- ## 📷 Dashboard Preview
-
-### Main Dashboard
-![Power BI Dashboard](images/powerbi_dashboard.png)
-
-### Complaint Analysis
-![Complaint Analysis](images/complaint_analysis_proper.png)
-
-### Trend Analysis
-![Trend Analysis](images/trend_analysis_proper.png)
-
-## 📈 Key Insights
+-
+- ## 📈 Key Insights
 - Identified the most frequently reported complaint categories.
 - Analyzed complaint distribution across locations.
 - Examined request status and resolution performance.
 - Observed monthly trends in customer service requests.
 - Generated actionable insights through visual analytics.
-
-## 🔍 Key Questions Answered
-* Which complaint types are reported most frequently?
-* Which locations generate the highest number of requests?
-* What is the distribution of request statuses?
-* How do complaints vary over time?
-* What insights can help improve service efficiency?
 
 ## 📈 Key Findings
 * A small number of complaint categories account for a significant portion of total requests.
@@ -98,7 +81,6 @@ Built an interactive dashboard to monitor:
 * Service request status analysis highlights operational performance patterns.
 
 ## 💼 Skills Demonstrated
-
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
 * Data Visualization
